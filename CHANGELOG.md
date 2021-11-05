@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2021-10-25
+It was automatically created on 2021-11-05
+
+## [2.7] - 2021-11-05
+### Added
+
+###Changed
+- Initial git release
+
+###Fixed
+
 
 ## [2.6] - 2021-10-25
 ### Added
@@ -9,6 +18,7 @@ It was automatically created on 2021-10-25
 ###Changed
 - Updated landscape scenario to version 1.3
 - Restructured package
+- Updated weather to version 4
 
 ###Fixed
 
