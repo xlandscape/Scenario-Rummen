@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <landscape_package>
   <meta>
-    <version>1.3</version>
+    <version>1.4</version>
     <target_type>222</target_type>
     <habitat_types>411, 412, 422</habitat_types>
   </meta>
@@ -20,7 +20,7 @@
     <hydrography>
       <file_name>Reachlist_shp.shp</file_name>
       <attributes>
-        <id column="key"/>
+        <id column="key" role="id"/>
         <strahler_order column="strahler"/>
         <downstream column="downstream"/>
         <bottom_width column="btmwidth" unit="m"/>
