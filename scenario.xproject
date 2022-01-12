@@ -40,7 +40,7 @@
         </Version>
     </Changelog>
     <Content>
-        <Item name="LandscapeScenario" target="geo/package.xinfo" version="1.4"/>
+        <Item name="LandscapeScenario" target="geo/package.xinfo" version="1.5"/>
         <Item name="Temperature" target="weather/MARS_weather_101096.csv" version="4"/>
         <Item name="Hydrology" target="hydro/hydro_reaches.h5" version="0.4" doc="hydro/doc" outsourced="true"/>
         <Item name="Catchment" target="hydro/CatchmentList.csv" version="1" outsourced="true"/>
