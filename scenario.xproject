@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>2.8</Version>
+    <Version>2.9</Version>
     <SupportedRuntimeVersions>
-        <Version variant="xAquaticRisk" number="2.57"/>
+        <Version variant="xAquaticRisk" number="2.67"/>
     </SupportedRuntimeVersions>
     <Description>The entire Rummen catchment.</Description>
     <Changelog>
+        <Version number="2.8" date="2021-11-18">
+            <Change author="sascha">Updated geo-data to version 1.5</Change>
+        </Version>
         <Version number="2.8" date="2021-11-18">
             <Change author="sascha">Updated geo-data to version 1.4</Change>
         </Version>
