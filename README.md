@@ -15,11 +15,11 @@
 ## About the project
 The entire Rummen catchment.
 This is an automatically generated documentation based on the available scenario metadata. The current version of this 
-document is from 2021-11-18.
+document is from 2022-01-12.
 
 ### Built with
 The scenario can be used in the following Landscape Models:
-* xAquaticRisk version 2.57 and higher
+* xAquaticRisk version 2.67 and higher
 
 
 ## Getting Started
@@ -27,14 +27,14 @@ The scenario can be used in the following Landscape Models:
 Make sure you use the latest version of the Landscape Model.
 
 ### Installation
-Copy the complete scenario folder unaltered into the `scenario` sub-directory of your model. Reference the scenario
+Copy the complete scenario folder unaltered into the `scenario` subdirectory of your model. Reference the scenario
 from the model parameterization. For details how to reference the scenario from the user parameterization, see the 
 `README` of the model.
 
 
 ## Usage
 The scenario adds the following macros to the Landscape Model:
-* `:LandscapeScenario` (version 1.4)
+* `:LandscapeScenario` (version 1.5)
 * `:Temperature` (version 4)
 * `:Hydrology` (version 0.4)
 * `:Catchment` (version 1)
