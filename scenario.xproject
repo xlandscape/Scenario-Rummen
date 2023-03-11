@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>2.9</Version>
+    <Version>2.10</Version>
     <SupportedRuntimeVersions>
         <Version variant="xAquaticRisk" number="2.67"/>
     </SupportedRuntimeVersions>
     <Description>The entire Rummen catchment.</Description>
     <Changelog>
-        <Version number="2.8" date="2021-11-18">
+        <Version number="2.10" date="2023-03-11">
+            <Change author="sascha">Added link to outsourced hydrology to README.md</Change>
+            <Fix author="sascha">Changelog in scenario.xproject</Fix>
+        </Version>
+        <Version number="2.9" date="2022-01-12">
             <Change author="sascha">Updated geo-data to version 1.5</Change>
         </Version>
         <Version number="2.8" date="2021-11-18">
@@ -54,4 +58,7 @@
         <Item name="WaterTemperature" target="stream_com/temp_Kornelimuenster.txt" version="2.0.10"/>
         <Item name="Biomass" target="stream_com/biomass.txt" version="2.0.19"/>
     </Content>
+    <ExternalSources>
+        <ExternalSource>https://xlandscape.org/releases/Scenario-Rummen-hydro-v0.4.zip</ExternalSource>
+    </ExternalSources>
 </Project>
