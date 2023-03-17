@@ -15,7 +15,7 @@
 ## About the project
 The entire Rummen catchment.
 This is an automatically generated documentation based on the available scenario metadata. The current version of this 
-document is from 2023-03-11.
+document is from 2023-03-17.
 
 ### Built with
 The scenario can be used in the following Landscape Models:
@@ -31,8 +31,9 @@ Copy the complete scenario folder unaltered into the `scenario` subdirectory of 
 from the model parameterization. For details how to reference the scenario from the user parameterization, see the 
 `README` of the model.
 
-**This scenario requires an additional resource. Please download the resource from [https://xlandscape.org/releases/Scenario-Rummen-hydro-v0.4.zip](https://xlandscape.org/releases/Scenario-Rummen-hydro-v0.4.zip) and 
-put it into the scenario folder.**
+**This scenario requires an additional resource. Please download the resource from 
+[https://xlandscape.org/releases/Scenario-Rummen-hydro-v0.4.zip](https://xlandscape.org/releases/Scenario-Rummen-hydro-v0.4.zip) 
+and put it into the scenario folder.**
 
 ## Usage
 The scenario adds the following macros to the Landscape Model:
@@ -46,6 +47,9 @@ The scenario adds the following macros to the Landscape Model:
 * `:SpeciesParameters` (version 2.0.19)
 * `:WaterTemperature` (version 2.0.10)
 * `:Biomass` (version 2.0.19)
+
+The scenario covers a time span from `1992-01-01` to 
+`2017-12-30`.
 
 ### Roadmap
 The scenario is final and not further developed. It will be, however, updated to reflect new requirements by the 

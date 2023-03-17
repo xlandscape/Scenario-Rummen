@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2023-03-11
+It was automatically created on 2023-03-17
+
+## [2.11] - 2023-03-17
+### Added
+- Temporal extent to scenario info
+
+###Changed
+
+###Fixed
+
 
 ## [2.10] - 2023-03-11
 ### Added
