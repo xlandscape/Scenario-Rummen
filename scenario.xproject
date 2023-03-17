@@ -5,6 +5,10 @@
         <Version variant="xAquaticRisk" number="2.67"/>
     </SupportedRuntimeVersions>
     <Description>The entire Rummen catchment.</Description>
+    <TemporalExtent>
+        <FromDate>1992-01-01</FromDate>
+        <ToDate>2017-12-30</ToDate>
+    </TemporalExtent>
     <Changelog>
         <Version number="2.10" date="2023-03-11">
             <Change author="sascha">Added link to outsourced hydrology to README.md</Change>
