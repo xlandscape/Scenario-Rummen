@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project>
+<Project
+  xmlns="urn:xLandscapeModelScenarioInfo"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:xLandscapeModelScenarioInfo ../../model/core/base/scenario.xsd"
+>
+    <Name>Rummen TDi</Name>
     <Version>2.11</Version>
     <SupportedRuntimeVersions>
         <Version variant="xAquaticRisk" number="2.67"/>
@@ -68,4 +73,14 @@
     <ExternalSources>
         <ExternalSource>https://xlandscape.org/releases/Scenario-Rummen-hydro-v0.4.zip</ExternalSource>
     </ExternalSources>
+    <Contacts>
+      <Contact>Thorsten Schad - thorsten.schad@bayer.com</Contact>
+      <Contact>Sascha Bub - sascha.bub@gmx.de</Contact>
+   </Contacts>
+   <Acknowledgements>
+    <Acknowledgement>
+      Sebastian Multsch for hydrological, hydrographic and geospatial parts of the scenario
+    </Acknowledgement>
+    <Acknowledgement>Tido Strauß for the StreamCom parameterization</Acknowledgement>
+  </Acknowledgements>
 </Project>
