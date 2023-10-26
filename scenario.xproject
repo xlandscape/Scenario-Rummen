@@ -5,9 +5,9 @@
   xsi:schemaLocation="urn:xLandscapeModelScenarioInfo ../../model/core/base/scenario.xsd"
 >
     <Name>Rummen TDi</Name>
-    <Version>2.11</Version>
+    <Version>2.12</Version>
     <SupportedRuntimeVersions>
-        <Version variant="xAquaticRisk" number="2.67"/>
+        <Version variant="xAquaticRisk" number="2.85"/>
     </SupportedRuntimeVersions>
     <Description>The entire Rummen catchment.</Description>
     <TemporalExtent>
@@ -15,6 +15,9 @@
         <ToDate>2017-12-30</ToDate>
     </TemporalExtent>
     <Changelog>
+        <Version number="2.12" date="2023-10-26">
+            <Addition author="sascha">Updated scenario metadata</Addition>
+        </Version>
         <Version number="2.11" date="2023-03-17">
             <Addition author="sascha">Temporal extent to scenario info</Addition>
         </Version>
